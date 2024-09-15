@@ -1,0 +1,3 @@
+C:/Users/spenc/Desktop/MTU stuff/Software Dev Year 2/Semester 2/C Programming/Assignment/spaceexplorer/cmake-build-debug/CMakeFiles/spaceexplorer.dir
+C:/Users/spenc/Desktop/MTU stuff/Software Dev Year 2/Semester 2/C Programming/Assignment/spaceexplorer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spenc/Desktop/MTU stuff/Software Dev Year 2/Semester 2/C Programming/Assignment/spaceexplorer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
